@@ -25,9 +25,6 @@ Java | Core Java | Algorithms | Clean Code | Future Spring Boot Developer<br><br
     }
 
     <a href="https://wakatime.com">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg"
-       alt="WakaTime" />
-</a>
 
 
 ## 🌐 Socials:
