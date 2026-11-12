@@ -1,12 +1,6 @@
 # 💫 About Me:
 Java | Core Java | Algorithms | Clean Code | Future Spring Boot Developer<br><br><br>Hi, I'm a Java developer from Iran, currently focused on building a strong foundation in Core Java and problem solving.<br><br>I deliberately started my journey with plain Java (without frameworks) to deeply understand algorithms, data structures, and clean coding principles. My repositories reflect a structured and disciplined learning path, covering arrays, strings, recursion, searching, sorting, and algorithmic problem solving.<br><br>I strongly believe that good software engineers are built on fundamentals, not shortcuts. That’s why I focus on writing readable, maintainable, and well-documented code, following best practices used in professional environments.<br><br>My long-term goal is to work in a professional European (especially German) engineering culture, where quality, structure, and responsibility matter.<br><br>Currently:<br>- Practicing Core Java & algorithms<br>- Building a clean and organized GitHub portfolio<br>- Preparing for advanced Java, OOP, and Spring Boot<br><br>I value consistency, logic, and continuous improvement.<br><br>Despite being at an early stage of my career, I focus on building long-term engineering skills rather than quick results.<br><br>
 
-
-
-package ir.amireghavi.profile;
-
-public class Developer {
-
     private final String name = "Amir Hossein";
     private final String title = "Java Backend Developer";
     private final String[] technologies = {
@@ -29,7 +23,11 @@ public class Developer {
     public static void main(String[] args) {
         new Developer().introduce();
     }
-}
+
+    <a href="https://wakatime.com">
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg"
+       alt="WakaTime" />
+</a>
 
 
 ## 🌐 Socials:
