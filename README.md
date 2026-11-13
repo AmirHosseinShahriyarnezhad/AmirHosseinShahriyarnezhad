@@ -16,6 +16,15 @@ I'm a Java Backend Developer focused on building reliable and scalable applicati
 - 📫 How to reach me: **[amirhosseinshahriyari45@gmail.com](mailto:amirhosseinshahriyari45@gmail.com)**
 - 📍 Based in **Iran, Karaj**
 
+  ## 📄 My Resume
+
+My professional resume is available in two languages:
+
+- 🇮🇷 [Persian Resume](https://github.com/AmirHosseinShahriyarnezhad/resume/blob/main/fa/Amirhossein-Shahriyari-Resume-FA.pdf)
+- 🇬🇧 [English Resume](https://github.com/AmirHosseinShahriyarnezhad/resume/blob/main/en/Amirhossein-Shahriyari-Resume-EN.pdf)
+
+🔗 [View Resume Repository](https://github.com/AmirHosseinShahriyarnezhad/resume)
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
