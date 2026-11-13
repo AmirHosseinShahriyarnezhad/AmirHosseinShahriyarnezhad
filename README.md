@@ -1,46 +1,70 @@
-# 💫 About Me:
-Java | Core Java | Algorithms | Clean Code | Future Spring Boot Developer<br><br><br>Hi, I'm a Java developer from Iran, currently focused on building a strong foundation in Core Java and problem solving.<br><br>I deliberately started my journey with plain Java (without frameworks) to deeply understand algorithms, data structures, and clean coding principles. My repositories reflect a structured and disciplined learning path, covering arrays, strings, recursion, searching, sorting, and algorithmic problem solving.<br><br>I strongly believe that good software engineers are built on fundamentals, not shortcuts. That’s why I focus on writing readable, maintainable, and well-documented code, following best practices used in professional environments.<br><br>My long-term goal is to work in a professional European (especially German) engineering culture, where quality, structure, and responsibility matter.<br><br>Currently:<br>- Practicing Core Java & algorithms<br>- Building a clean and organized GitHub portfolio<br>- Preparing for advanced Java, OOP, and Spring Boot<br><br>I value consistency, logic, and continuous improvement.<br><br>Despite being at an early stage of my career, I focus on building long-term engineering skills rather than quick results.<br><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&text=Hi+there%2C+I%27m+amirhossein+%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner">
 
-    private final String name = "Amir Hossein";
-    private final String title = "Java Backend Developer";
-    private final String[] technologies = {
-        "Java",
-        "Spring Boot",
-        "Spring Security",
-        "PostgreSQL",
-        "Docker",
-        "Linux"
-    };
+<h3 align="center">Java Backend Developer | Building Scalable Applications with Spring Boot | Exploring DevOps & Cloud Technologies</h3>
 
-    public void introduce() {
-        System.out.println(
-            "Hi, I'm " + name +
-            ", a " + title +
-            " passionate about building reliable backend systems."
-        );
-    }
+<p align="center"><img src="https://komarev.com/ghpvc/?username=amirhosseinshahriyarnezhad&style=for-the-badge&color=6E85FF" alt="profile views">
+<img src="https://img.shields.io/github/followers/amirhosseinshahriyarnezhad?style=for-the-badge&logo=github&color=6E85FF" alt="followers"></p>
 
-    public static void main(String[] args) {
-        new Developer().introduce();
-    }
+I'm a Java Backend Developer focused on building reliable and scalable applications using Java and Spring Boot. I'm continuously improving my skills in backend architecture, database management, security, and DevOps technologies while working on real-world projects and exploring new challenges.
 
-    <a href="https://wakatime.com">
+## 💫 About Me
 
+- 🔭 I'm currently working on **CodePardis, building a web platform with Java, Spring Boot, and PostgreSQL.**
+- 🌱 I'm currently learning **Spring Security & JWT Authentication    Docker & Containerization    CI/CD with GitHub Actions    Linux Server Administration    Redis & Caching    German (A1–B2) for my future career in Germany.**
+- 👯 I'm looking to collaborate on **Java & Spring Boot backend projects.    RESTful API development.    Open-source projects focused on backend development.    Projects involving PostgreSQL, Docker, and system design.**
+- 💬 Ask me about **Java & Spring Boot    REST API Development    PostgreSQL & Database Design    Spring Security & Authentication    Docker & Linux    Backend Development Best Practices**
+- 📫 How to reach me: **[amirhosseinshahriyari45@gmail.com](mailto:amirhosseinshahriyari45@gmail.com)**
+- 📍 Based in **Iran, Karaj**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirhossein-shahriyarnezhad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhossein-shahriyari)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Amirhossein-Shahriyarnezhad)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirhosseinshahriyari45@gmail.com)
+## 🛠️ Tech Stack
 
+### 👨‍💻 Languages
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java&perline=10" alt="Languages icons">
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ⚙️ Backend
 
----
-[![](https://visitcount.itsvg.in/api?id=AmirHosseinShahriyari&icon=7&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring&perline=10" alt="Backend icons">
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres&perline=10" alt="Databases icons">
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,nginx&perline=10" alt="DevOps & Cloud icons">
+</p>
+
+### 🧰 Tools & Design
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github&perline=10" alt="Tools & Design icons">
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/AmirHosseinShahriyarnezhad" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://linkedin.com/in/Amirhossein Shahriyarnezhad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amirhosseinshahriyarnezhad&theme=tokyonight&hide_border=true&rank_icon=github&show_icons=true&count_private=true" alt="GitHub stats">
+<img height="170" src="https://streak-stats.demolab.com?user=amirhosseinshahriyarnezhad&theme=tokyonight&hide_border=true" alt="contribution streak">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinshahriyarnezhad&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="top languages">
+</p>
+
+## 📦 Featured Projects
+
+<p align="center">
+<a href="https://github.com/https:/"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=https%3A&repo=&theme=tokyonight&hide_border=true" alt=""></a>
+</p>
