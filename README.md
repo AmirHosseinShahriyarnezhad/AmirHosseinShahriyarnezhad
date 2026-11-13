@@ -20,8 +20,8 @@ I'm a Java Backend Developer focused on building reliable and scalable applicati
 
 My professional resume is available in two languages:
 
-- 🇮🇷 [Persian Resume](https://github.com/AmirHosseinShahriyarnezhad/resume/blob/main/fa/Amirhossein-Shahriyari-Resume-FA.pdf)
-- 🇬🇧 [English Resume](https://github.com/AmirHosseinShahriyarnezhad/resume/blob/main/en/Amirhossein-Shahriyari-Resume-EN.pdf)
+- 🇮🇷 [Persian Resume](https://github.com/AmirHosseinShahriyarnezhad/resume/blob/main/fa/Amirhossein-Shahriyarinezhad-Resume-fa.pdf)
+- 🇬🇧 [English Resume](https://github.com/AmirHosseinShahriyarnezhad/resume/blob/main/en/Amirhossein-Shahriyarinezhad-Resume-en.pdf)
 
 🔗 [View Resume Repository](https://github.com/AmirHosseinShahriyarnezhad/resume)
 
