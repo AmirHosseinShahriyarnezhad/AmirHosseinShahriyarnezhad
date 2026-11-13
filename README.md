@@ -62,9 +62,4 @@ I'm a Java Backend Developer focused on building reliable and scalable applicati
 <img height="170" src="https://streak-stats.demolab.com?user=amirhosseinshahriyarnezhad&theme=tokyonight&hide_border=true" alt="contribution streak">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinshahriyarnezhad&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="top languages">
 </p>
-
-## 📦 Featured Projects
-
-<p align="center">
-<a href="https://github.com/https:/"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=https%3A&repo=&theme=tokyonight&hide_border=true" alt=""></a>
-</p>
+![snake gif](https://github.com/AmirHosseinShahriyarnezhad/AmirHosseinShahriyarnezhad/blob/output/github-snake-dark.svg)
